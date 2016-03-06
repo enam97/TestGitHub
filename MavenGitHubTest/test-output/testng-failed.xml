@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.technosoft.selenium.MavenTest.SampleTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="beforeClassExecution"/>
+          <include name="close"/>
+          <include name="beforeEachTestCase"/>
+          <include name="handleScreenShot"/>
+          <include name="TitleTest"/>
+          <include name="finalCleanUp"/>
+        </methods>
+      </class> <!-- com.technosoft.selenium.MavenTest.SampleTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,3 @@
+pageObject\LandingScreen.class
+com\technosoft\selenium\MavenTest\BasePage.class
+com\technosoft\selenium\MavenTest\AbstractTest.class
