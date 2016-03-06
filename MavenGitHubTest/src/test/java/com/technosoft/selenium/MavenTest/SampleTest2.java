@@ -37,6 +37,7 @@ public class SampleTest2 extends AbstractTest {
 	public String localFilePath = "D:\\All Selenium Output\\MavenTest\\";
 	
 //	private String localFilePath = "screenshot/";
+	
 
 	@BeforeSuite
 	public void beforeSuite() {
