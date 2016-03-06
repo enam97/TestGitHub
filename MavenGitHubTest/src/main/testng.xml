@@ -3,7 +3,7 @@
 <suite name="Maven Test" parallel="none">
   <test name="Regression Testing ">
     <classes>
-      <class name="com.technosoft.selenium.MavenTest.SampleTest"/>
+      <class name="com.technosoft.selenium.MavenTest.SampleTest2"/>
     </classes>
   </test> <!-- Regression Testing  -->
 </suite> <!-- Maven Test -->
