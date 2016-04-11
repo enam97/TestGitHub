@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Maven Test" duration-ms="18507" started-at="2016-03-06T00:58:26Z" finished-at="2016-03-06T00:58:45Z">
+  <suite name="Maven Test" duration-ms="28241" started-at="2016-04-11T01:32:02Z" finished-at="2016-04-11T01:32:30Z">
     <groups>
     </groups>
-    <test name="Regression Testing " duration-ms="18507" started-at="2016-03-06T00:58:26Z" finished-at="2016-03-06T00:58:45Z">
+    <test name="Regression Testing " duration-ms="28241" started-at="2016-04-11T01:32:02Z" finished-at="2016-04-11T01:32:30Z">
       <class name="com.technosoft.selenium.MavenTest.SampleTest2">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeSuite" is-config="true" duration-ms="212" started-at="2016-03-05T19:58:26Z" finished-at="2016-03-05T19:58:26Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeSuite" is-config="true" duration-ms="338" started-at="2016-04-10T21:32:02Z" finished-at="2016-04-10T21:32:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeClassExecution()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeClassExecution" is-config="true" duration-ms="11663" started-at="2016-03-05T19:58:26Z" finished-at="2016-03-05T19:58:38Z">
+        <test-method status="PASS" signature="beforeClassExecution()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeClassExecution" is-config="true" duration-ms="16600" started-at="2016-04-10T21:32:02Z" finished-at="2016-04-10T21:32:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClassExecution -->
-        <test-method status="PASS" signature="beforeEachTestCase()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeEachTestCase" is-config="true" duration-ms="2213" started-at="2016-03-05T19:58:38Z" finished-at="2016-03-05T19:58:40Z">
+        <test-method status="PASS" signature="beforeEachTestCase()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeEachTestCase" is-config="true" duration-ms="3844" started-at="2016-04-10T21:32:19Z" finished-at="2016-04-10T21:32:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTestCase -->
-        <test-method status="PASS" signature="testMaven()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="testMaven" duration-ms="1333" started-at="2016-03-05T19:58:40Z" finished-at="2016-03-05T19:58:41Z">
+        <test-method status="PASS" signature="testMaven()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="testMaven" duration-ms="2232" started-at="2016-04-10T21:32:22Z" finished-at="2016-04-10T21:32:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMaven -->
-        <test-method status="PASS" signature="handleScreenShot(org.testng.ITestResult)[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="handleScreenShot" is-config="true" duration-ms="726" started-at="2016-03-05T19:58:41Z" finished-at="2016-03-05T19:58:42Z">
+        <test-method status="PASS" signature="handleScreenShot(org.testng.ITestResult)[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="handleScreenShot" is-config="true" duration-ms="1206" started-at="2016-04-10T21:32:25Z" finished-at="2016-04-10T21:32:26Z">
           <params>
             <param index="0">
               <value>
@@ -34,15 +34,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handleScreenShot -->
-        <test-method status="PASS" signature="beforeEachTestCase()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeEachTestCase" is-config="true" duration-ms="638" started-at="2016-03-05T19:58:42Z" finished-at="2016-03-05T19:58:43Z">
+        <test-method status="PASS" signature="beforeEachTestCase()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeEachTestCase" is-config="true" duration-ms="1161" started-at="2016-04-10T21:32:26Z" finished-at="2016-04-10T21:32:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTestCase -->
-        <test-method status="PASS" signature="TitleTest()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="TitleTest" duration-ms="161" started-at="2016-03-05T19:58:43Z" finished-at="2016-03-05T19:58:43Z">
+        <test-method status="PASS" signature="TitleTest()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="TitleTest" duration-ms="42" started-at="2016-04-10T21:32:27Z" finished-at="2016-04-10T21:32:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TitleTest -->
-        <test-method status="PASS" signature="handleScreenShot(org.testng.ITestResult)[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="handleScreenShot" is-config="true" duration-ms="504" started-at="2016-03-05T19:58:43Z" finished-at="2016-03-05T19:58:44Z">
+        <test-method status="PASS" signature="handleScreenShot(org.testng.ITestResult)[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="handleScreenShot" is-config="true" duration-ms="1001" started-at="2016-04-10T21:32:27Z" finished-at="2016-04-10T21:32:28Z">
           <params>
             <param index="0">
               <value>
@@ -53,15 +53,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handleScreenShot -->
-        <test-method status="PASS" signature="beforeEachTestCase()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeEachTestCase" is-config="true" duration-ms="633" started-at="2016-03-05T19:58:44Z" finished-at="2016-03-05T19:58:44Z">
+        <test-method status="PASS" signature="beforeEachTestCase()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="beforeEachTestCase" is-config="true" duration-ms="1019" started-at="2016-04-10T21:32:28Z" finished-at="2016-04-10T21:32:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeEachTestCase -->
-        <test-method status="PASS" signature="testDemo()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="testDemo" duration-ms="8" started-at="2016-03-05T19:58:44Z" finished-at="2016-03-05T19:58:44Z">
+        <test-method status="PASS" signature="testDemo()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="testDemo" duration-ms="8" started-at="2016-04-10T21:32:29Z" finished-at="2016-04-10T21:32:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemo -->
-        <test-method status="PASS" signature="handleScreenShot(org.testng.ITestResult)[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="handleScreenShot" is-config="true" duration-ms="596" started-at="2016-03-05T19:58:44Z" finished-at="2016-03-05T19:58:45Z">
+        <test-method status="PASS" signature="handleScreenShot(org.testng.ITestResult)[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="handleScreenShot" is-config="true" duration-ms="1107" started-at="2016-04-10T21:32:29Z" finished-at="2016-04-10T21:32:30Z">
           <params>
             <param index="0">
               <value>
@@ -72,11 +72,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handleScreenShot -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="close" is-config="true" duration-ms="0" started-at="2016-03-05T19:58:45Z" finished-at="2016-03-05T19:58:45Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="close" is-config="true" duration-ms="0" started-at="2016-04-10T21:32:30Z" finished-at="2016-04-10T21:32:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="finalCleanUp()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="finalCleanUp" is-config="true" duration-ms="2110" started-at="2016-03-05T19:58:45Z" finished-at="2016-03-05T19:58:47Z">
+        <test-method status="PASS" signature="finalCleanUp()[pri:0, instance:com.technosoft.selenium.MavenTest.SampleTest2@6bf256fa]" name="finalCleanUp" is-config="true" duration-ms="15538" started-at="2016-04-10T21:32:30Z" finished-at="2016-04-10T21:32:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- finalCleanUp -->

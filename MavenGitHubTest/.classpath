@@ -40,6 +40,6 @@
 	<classpathentry kind="lib" path="D:/AllCollectedjars/SaxonLiaison.jar"/>
 	<classpathentry kind="lib" path="D:/AllCollectedjars/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="lib" path="D:/AllCollectedjars/xmlbeans-2.6.0.jar"/>
-	<classpathentry kind="lib" path="D:/AllCollectedjars/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/AllCollectedjars/selenium-server-standalone-2.53.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

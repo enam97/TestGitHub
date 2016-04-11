@@ -60,8 +60,8 @@ public class SampleTest2 extends AbstractTest {
 		extentTest = extentReport.startTest("Login Verification");
 		LandingScreen landingScreen = new LandingScreen(driver);
 		
-		landingScreen.enterUserName("Mohammad");
-		extentTest.log(LogStatus.INFO, "Entered username as Mohammad");
+		landingScreen.enterUserName("MdEnamulHoque");
+		extentTest.log(LogStatus.INFO, "Entered username as Md Enamul Hoque");
 		
 		landingScreen.enterPassword("Test1234");
 		extentTest.log(LogStatus.INFO, "Entered Password as Test1234");
